@@ -23,15 +23,18 @@
 #region task3
 
 //int b = 4;
-//int a = 4;
+//int a = 121;
 //int sum = 0;
-//if (a % b == 0)
 
-//Console.WriteLine(sum);
+
+//if (sum == a % b) 
+
+//{
+//    Console.WriteLine("tam bolunur"); }
 
 
 //else
-//{ Console.WriteLine("eded duzgun deyil"); }
+//{ Console.WriteLine("bolunmur"); }
 
 
 
